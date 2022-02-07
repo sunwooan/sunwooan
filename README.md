@@ -21,7 +21,7 @@ When | My Activities | Project Name |
 ### Career🔭
 + 2020.02 Mirim Girls High School
 + 2020.03 Enter Anyang Univ. Computer Science Major
-+ 2020.03 ~ now "gurum" Programming/IT Club
++ 2020.03 ~ now "goorm" Programming/IT Club
 
 <!--
 **sunwooan/sunwooan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
